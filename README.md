@@ -1,4 +1,6 @@
 📊 E-Commerce Customer Churn Analysis
+
+
 📌 Overview
 
 This project analyzes customer churn in an e-commerce platform using SQL. The goal is to identify key factors influencing customer attrition and provide actionable insights to improve retention.
